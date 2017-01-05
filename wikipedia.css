@@ -1,0 +1,56 @@
+body {
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+  height: 100%;
+  width: 100%;
+  border: 1rem solid black;
+  padding-top: 40px;
+}
+
+html {
+  height: 100%;
+}
+
+.container-fluid {
+  height: 100%;
+  overflow: scroll;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  height: 300px;
+  width: 300px;
+}
+
+form {
+  font-size: 3rem;
+  padding-bottom: 40px;
+}
+
+ul {
+  padding-left: 0;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: black;
+}
+
+.list-style {
+  background-color: #F0F1F2;
+  colour: black;
+  font-size: 2.5rem;
+  text-align: center;
+  padding: 6rem;
+  margin: 1em 0em;
+  height: 100%;
+  width: 100%;
+}
